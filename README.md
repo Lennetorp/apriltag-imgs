@@ -13,3 +13,7 @@ Alternately, you can use the supplied native Python 3 script `tag_to_svg.py` to 
 ~~~
 python3 tag_to_svg.py tagStandard52h13/tag52_13_00007.png tag52_13_00007.svg --size=20mm
 ~~~
+
+
+
+## This repo is in maintenance mode, no PRs adding new functionality will be accepted.
